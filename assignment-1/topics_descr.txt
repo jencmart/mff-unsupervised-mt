@@ -1,0 +1,10 @@
+t0 - zahranicni politika (iraq)
+t1 - war in iraq
+t2 - political news from iraq
+t3 - plans about wars in iraq
+t4 - plans about  world politics
+t5 - protest in iraq
+t6 - reports about deaths in iraq
+t7 - plans about political situation in iraq
+t8 - news from baghdad about iraq
+t9 - council in iraq and trials

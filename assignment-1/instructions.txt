@@ -1,0 +1,19 @@
+Implement the Latent Dirichlet Allocation algorithm as it was described in the lectures.
+The attached data in abcnews-date-text.csv consist of 1186018 news headlines. Consider
+the headlines as individual short documents. You can use only a subset of them (e.g. the
+first 10.000 lines) to make the computations faster. Use the preprocessing (lemmatization,
+stemming, filtering dictionary) as proposed at the beginning of the script lda.py.
+I assume, most of you will choose Python as a programming language. In that case, fill
+the missing parts of the script lda.py:
+
+- Randomly initialize topics for all words in all documents.
+- Iterate over data and perform Gibbs sampling until convergence.
+- For each topic, print 10 most frequent words and their frequencies.
+- For the first 10 documents, show the distribution across their topics.
+- Try to change parameters alpha and gamma and observe the differences.
+
+If you don't like Python, you can use another (reasonable) programming language. However,
+the preprocessing is needed anyway, so you will have a bit more work with that.
+If you have any questions, do not hesistate to write me to marecek@ufal.mff.cuni.cz.
+
+

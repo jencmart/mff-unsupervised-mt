@@ -1,0 +1,5 @@
+1) Visit the page https://scikit-learn.org/stable/modules/clustering.html and learn how to work with the clustering tools using the Scikit-Learn library.
+2) Learn also how to evaluate the clustering performance (Section 2.3.10), specifically the Homogeneity, completeness, and V-measure.
+3) Visit the page https://scikit-learn.org/stable/modules/mixture.html and learn how to work with Gaussian Mixture Models.
+4) Implement the EM algorithm for Gaussian Mixture Models, as shown on the slide 36 from the presentation https://davidrosenberg.github.io/ml2015/docs/13.mixture-models.pdf so that it can be used similarly as the gmm.fit() function from sklearn.mixture. Test your function on the examples from the page https://scikit-learn.org/stable/modules/mixture.html.
+5) Please send me your code to marecek@ufal.mff.cuni.cz.

@@ -1,0 +1,10 @@
+You get an English texts where the spaces between words were removed. The task is to use Bayessian inference
+to bring the spaces back in a completely unsupervised way. The task is relevant e.g. for Chinese, Japanese,
+Thai, or other languages not separating words. English was chosen so that everyone could see how good his/her
+results are. You can find all necesary information in Kewin Knight's tutorial "Bayessian inference with tears"
+(https://www.isi.edu/natural-language/people/bayes-with-tears.pdf). Try several hyperparameter combination to
+gain as good results as possible. Try also the simulated annealing method to delay the Gibbs sampling
+convergence. 
+Please, send me your code (prefered language is Python) together with the output text file by email to
+marecek@ufal.mff.cuni.cz.
+
